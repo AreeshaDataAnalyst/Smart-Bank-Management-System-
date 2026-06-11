@@ -1,0 +1,34 @@
+===== ACCOUNT BALANCES =====
+
+Account No : 1
+Name       : 10001
+Balance    : Rs.2500.0
+---------------------------
+Account No : 101
+Name       : Areesha-Atiq
+Balance    : Rs.140000.0
+---------------------------
+Account No : 120
+Name       : Areesha_Atiq
+Balance    : Rs.171400.0
+---------------------------
+Account No : 1001
+Name       : Areesha Atiq
+Balance    : Rs.44900.0
+---------------------------
+Account No : 10001
+Name       : Areesha ATiq
+Balance    : Rs.100000.0
+---------------------------
+Account No : 10005
+Name       : aliya
+Balance    : Rs.15000.0
+---------------------------
+Account No : 100002
+Name       : Areesha
+Balance    : Rs.67500.0
+---------------------------
+Account No : 100004
+Name       : Areeba
+Balance    : Rs.30000.0
+---------------------------
